@@ -2,6 +2,8 @@
 
 A modern, SQL query runner application with real-time collaboration, performance monitoring, and advanced query management capabilities.
 
+ER DIAGRAM and Video Demonstration are uploaded in same directory.
+
 ## Features
 
 - **Query Management**
